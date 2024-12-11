@@ -1,0 +1,16 @@
+{
+  "name": "catt-lsp",
+  "description": "catt-lsp",
+  "version": "1.0.0",
+  "author": "catt-lsp",
+  "license": "MIT",
+  "engines": {
+    "node": "*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "catt-lsp"
+  },
+  "dependencies": {
+  }
+}
